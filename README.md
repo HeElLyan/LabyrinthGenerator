@@ -12,4 +12,5 @@ The project was developed with IntelliJ Idea.
 
 ## Authors
 Khayaleeva Izida - main developer
+
 Shaidullina Elvina - developer, git expert

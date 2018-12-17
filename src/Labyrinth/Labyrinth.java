@@ -4,7 +4,9 @@ package Labyrinth;
  */
 
 import java.util.Random;
-
+/*
+An abstract class for creating Labyrinth
+ */
 public abstract class Labyrinth implements WallMaker, SetsJoiner, VerticalCutsMaker, LabyrinthShower, LastLineMaker, EEMaker {
     private int width;
     private int height;

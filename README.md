@@ -10,7 +10,9 @@ Just clone the repository or download a zip file and compile it. You may also us
 Run this and you should see a generated labyrinth
 
 `RandomLabyrinth lab = new RandomLabyrinth(5,5);
+
         lab.makeWall();
+        
         lab.showLabyrinth();`
 
 ## Built with

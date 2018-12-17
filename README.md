@@ -9,11 +9,11 @@ Just clone the repository or download a zip file and compile it. You may also us
 ### Example of creating a labyrinth
 Run this and you should see a generated labyrinth
 
-`RandomLabyrinth lab = new RandomLabyrinth(5,5);
+`RandomLabyrinth lab = new RandomLabyrinth(5,5);`
 
-        lab.makeWall();
+`lab.makeWall();`
         
-        lab.showLabyrinth();`
+`lab.showLabyrinth();`
 
 ## Built with
 The project was developed with IntelliJ Idea.

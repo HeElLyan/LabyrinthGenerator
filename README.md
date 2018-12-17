@@ -7,10 +7,12 @@ LabyrinthGenerator is a great-developed library for study works. We believe deve
 ### Installation
 Just clone the repository or download a zip file and compile it. You may also use our releases on Github and download jar.
 ### Example of creating a labyrinth
-Run this and you should see a generated labyrinth
+Run this and you should see a generated labyrinth:
 
 `RandomLabyrinth lab = new RandomLabyrinth(5,5);`
-`lab.makeWall();`        
+
+`lab.makeWall();`
+
 `lab.showLabyrinth();`
 
 ## Built with

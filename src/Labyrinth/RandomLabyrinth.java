@@ -1,7 +1,15 @@
 package Labyrinth;
 
 import java.util.Random;
-
+/**
+ * A class for generating your own unique labyrinth.
+ * Firstly you should call makeWall() method.
+ * Secondly, use showLabyrinth() to see lab have generated already. You can override it, if you need to.
+ * Now your labyrinth is ready to use.
+ * Good luck!
+ * @author Khayaleeva Izida and Shaidullina Elvina
+ *
+ */
 public class RandomLabyrinth extends Labyrinth {
     private int width;
     private int height;

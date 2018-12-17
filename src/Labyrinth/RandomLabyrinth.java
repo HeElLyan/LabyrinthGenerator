@@ -39,6 +39,9 @@ public class RandomLabyrinth extends Labyrinth {
         super(nwidth, nheight);
         cur_width = nwidth;
         cur_height = nheight;
+        /* 
+        We should use only odd numbers. That's why all input values are automatically converted into odd numbers.
+        */
 
         width = cur_width * 2 + 1;
         height = cur_height * 2 + 1;

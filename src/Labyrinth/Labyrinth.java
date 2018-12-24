@@ -56,5 +56,5 @@ public abstract class Labyrinth implements WallMaker, SetsJoiner, VerticalCutsMa
     public abstract void makeEE();
     public abstract void makeWall();
     public abstract void makeVerticalCuts();
-
+    public abstract char[][] getCells();
 }
